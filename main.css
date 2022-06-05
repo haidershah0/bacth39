@@ -1,0 +1,75 @@
+.content-table{
+    color: black;
+    text-align: center;
+}
+.content-table thead tr{
+    background-color: yellow;
+    font-weight: bold;
+}
+.content-table tbody td:nth-child(5n+2){
+    background-color: #ffcccc;
+}
+.content-table tbody td:nth-child(5n+5){
+    background-color:#c4e538;
+}
+.tb01{
+    background-color: #f6b93b;
+}
+.tb02{
+    background-color: #ff3f34;
+}
+.tb03{
+    background-color: #0fbcf9;
+}
+.tb04{
+    background-color: #78e08f;
+}
+.tb05{
+    background-color: #d980fa;
+}
+.tb06{
+    background-color: #d1d8e0;
+}
+.tb07{
+    background-color: #ee82ee;
+}
+.tb08{
+    background-color: #8e4abe;
+}
+.tb09{
+    background-color: #2222fd;
+}
+.tb10{
+    background-color: #008000;
+}
+.tb11{
+    background-color: #ffff00;
+}
+.tb12{
+    background-color: #ffa500;
+}
+.tb13{
+    background-color: #ff6b81;
+}
+.tb14{
+    background-color: #2ed573;
+}
+.para{
+    background: #d2d2d2;
+    font-size: 24px;
+    color: #5229c6;
+    text-align: center;
+}
+.heading{
+    color: #f40b0b;
+    font-size: 21px;
+}
+.image{
+    width: 410px;
+}
+.footer{
+    text-align: center;
+    background: #45d76a;
+    color: rgba(250, 245, 245, 0.993);
+
+}

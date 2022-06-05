@@ -1,0 +1,46 @@
+.body{
+    background: #ffcd49;
+}
+.div00{
+    text-align: center;
+    color: #dd594d;
+    font-size: 30px;
+}
+.hed01{
+    background: green;
+    font-size: 20px;
+    text-align: left;
+    color:#42a5f5;
+}
+.hed02{
+    background: red;
+    font-size: 20px;
+    text-align: center;
+    color: chartreuse;
+}
+.hed03{
+    background: yellow;
+    font-size: 20px;
+    text-align: right;
+    color: darkblue;
+}
+.hed04{
+    text-align: right;
+    font-size: 50px;
+    color: #3b2c01;
+    background: rgb(209, 209, 206);
+}
+.hed05{
+    font-size: 50px;
+}
+.hed06{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.hed07{
+    text-align: center;
+    font-size: 40px;
+    color: #3b2c01;
+    background-color: aqua;
+}
